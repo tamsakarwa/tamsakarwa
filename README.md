@@ -2,10 +2,10 @@
 
 ## 🧠 About Me
 
-🎓 I'm a B.Tech Computer Science (AI & ML) student at **VIT Bhopal**  
+🎓 I'm a B.Tech Computer Science (AI & ML) student at **Vellore Institute of Technology, Bhopal**  
 💡 Passionate about **Data Science**, **AI/ML**, and **Generative AI**  
 📄 [My Resume (PDF)](./tamsa%20karwa%20resume.pdf)  
-📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/tamsakarwa) | 📞 +91 8177839494 | ✉️ tamsakarwa@gmail.com
+📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/tamsakarwa) 
 
 ---
 
