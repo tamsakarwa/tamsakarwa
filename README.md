@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Tamsa%20Karwa!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Tamsa%20Karwa!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20AI%20Enthusiast&descAlignY=50" />
 
 ## 🧠 About Me
 
