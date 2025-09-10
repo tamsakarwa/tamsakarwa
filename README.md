@@ -3,7 +3,7 @@
 ## 🧠 About Me
 
 🎓 I'm a B.Tech Computer Science (AI & ML) student at **Vellore Institute of Technology, Bhopal**  
-💡 Passionate about **Data Science**, **AI/ML**, and **Generative AI**  
+💡 Passionate about **Data Science**, **Data Analyst**, and **AI/ML**  
 📄 [My Resume (PDF)](./tamsa%20karwa%20DA.pdf)    
 📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/tamsakarwa) 
 
