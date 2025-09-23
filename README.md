@@ -11,43 +11,71 @@
 
 ## 🔧 Skills & Tools
 
-### 💻 Languages & Databases
-- Python 🐍 | SQL 📊
 
-### 🧠 Libraries & Frameworks
-- NumPy, Pandas, Matplotlib  
-- TensorFlow, PyTorch  
-- scikit-learn
+### Programming & Databases  
+- **Languages**: Python, SQL
+- **Databases**: MySQL, PostgreSQL  
 
-### 📊 Tools
-- Tableau 📈  
-- Git & GitHub  
-- MySQL
+### Data Science & Machine Learning  
+- **Core Skills**: Machine Learning, Deep Learning, Natural Language Processing (NLP), Generative AI, Statistical Modeling, Feature Engineering, Exploratory Data Analysis (EDA), A/B Testing, Predictive Analytics  
+- **Libraries/Frameworks**: scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib, Seaborn  
 
-### 🎯 Core Competencies
-- Machine Learning  
-- Deep Learning  
-- Natural Language Processing  
-- Generative AI  
-- Data Visualization  
-- Statistical Modeling  
+### Data Analytics & Business Intelligence  
+- Data Cleaning & Preprocessing, Data Wrangling, KPI Tracking, Hypothesis Testing, Business Insights, Data Storytelling  
+- **Tools**: Tableau, Power BI, Excel (Pivot Tables, Macros, VLOOKUP/INDEX-MATCH)  
 
----
+### Software Development & Tools  
+- Git & GitHub, Jupyter Notebook, VS Code  
+- Agile & SDLC fundamentals  
 
-## 🚀 Featured Projects
-
-### 📈 Stock Market Prediction with Telegram Bot
-A machine learning-based stock trend predictor that sends real-time alerts through Telegram.  
-- Built with: Python, scikit-learn, Telegram API  
-- Includes: EDA, model training, automated visualizations  
-🔗 [View Repository](https://github.com/tamsakarwa/Stock-Market-Prediction-with-Telegram-Bot)
+### Cloud & Deployment (Familiarity)  
+- AWS (S3, EC2 basics), Azure, GCP, Streamlit, Flask  
 
 ---
 
-### 💬 Chatbot for Intent Classification
-Rule-based NLP chatbot using NLTK and scikit-learn for detecting and responding to user intents.  
-- Features: Tokenization, lemmatization, BoW model, modular JSON structure  
-🔗 [View Repository](https://github.com/tamsakarwa/Chatbot.ML)
+### 📌 Skills (ATS Keywords)  
+SQL, Python, Pandas, NumPy, Excel (Pivot Tables, Macros), Data Cleaning, Data Wrangling, Data Preprocessing, Data Visualization, Tableau, Power BI, Matplotlib, Seaborn, Statistical Analysis, Hypothesis Testing, A/B Testing, KPI Tracking, Business Intelligence, Data Storytelling, Communication, Machine Learning (Basics), Predictive Analytics, ETL, Data Warehousing, Data Pipelines, AWS, Azure, GCP, Git, Collaboration, Problem-Solving, Attention to Detail
+
+---
+
+## 📂 Featured Projects
+
+_A showcase of my Data Science, Machine Learning, and Business Analytics projects._
+
+---
+
+### 🚀 [Stock Market Prediction with Telegram Bot](https://github.com/tamsakarwa/Stock-Market-Prediction-with-Telegram-Bot)  
+- **Idea**: Machine learning–based stock trend predictor integrated with Telegram API for real-time alerts.  
+- **Highlights**: Exploratory data analysis, model training, automated visualizations, and live notifications.  
+- **Tech Stack**: Python, scikit-learn, Pandas, NumPy, Matplotlib, Telegram API  
+
+---
+
+### 📊 [Credit Card Transaction Analysis Dashboard](https://github.com/tamsakarwa/Credit-Card-Transaction-Analysis-Dashboard)  
+- **Idea**: Interactive dashboard analyzing credit card transaction metrics and trends.  
+- **Highlights**: Data preprocessing, KPI tracking, and visualization for business insights.  
+- **Tech Stack**: SQL, Power BI, Python, Pandas  
+
+---
+
+### 🛒 [Customer Product Insights Platform](https://github.com/tamsakarwa/Customer-Product-Insights-Platform)  
+- **Idea**: Business intelligence platform providing insights into sales and customer behavior.  
+- **Highlights**: Data cleaning, SQL integration, and interactive dashboards for decision support.  
+- **Tech Stack**: SQL, Power BI, Excel, Python  
+
+---
+
+### 🍽️ [Zomato Data Vision](https://github.com/tamsakarwa/zomato-data-vision)  
+- **Idea**: Restaurant data analysis uncovering cuisine trends, customer preferences, and market behavior.  
+- **Highlights**: Complex SQL queries, Python EDA, and interactive Tableau dashboards.  
+- **Tech Stack**: PostgreSQL, Python (Pandas, Matplotlib), Tableau  
+
+---
+
+### 🏦 [Bank Customer Churn Analysis](https://github.com/tamsakarwa/Bank-Customer-Churn-Analysis)  
+- **Idea**: End-to-end churn analysis to identify at-risk customers and recommend retention strategies.  
+- **Highlights**: EDA, churn prediction modeling, KPI tracking, and data-driven insights.  
+- **Tech Stack**: SQL, Python (scikit-learn, Pandas, Matplotlib), Tableau  
 
 ---
 
