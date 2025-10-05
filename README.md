@@ -29,12 +29,7 @@
 - Agile & SDLC fundamentals  
 
 ### Cloud & Deployment (Familiarity)  
-- AWS (S3, EC2 basics), Azure, GCP, Streamlit, Flask  
-
----
-
-### 📌 Skills (ATS Keywords)  
-SQL, Python, Pandas, NumPy, Excel (Pivot Tables, Macros), Data Cleaning, Data Wrangling, Data Preprocessing, Data Visualization, Tableau, Power BI, Matplotlib, Seaborn, Statistical Analysis, Hypothesis Testing, A/B Testing, KPI Tracking, Business Intelligence, Data Storytelling, Communication, Machine Learning (Basics), Predictive Analytics, ETL, Data Warehousing, Data Pipelines, AWS, Azure, GCP, Git, Collaboration, Problem-Solving, Attention to Detail
+- AWS (S3, EC2 basics), Azure, Oracle Infrastructutre 
 
 ---
 
